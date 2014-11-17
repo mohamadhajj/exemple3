@@ -1,0 +1,17 @@
+<Alloy>
+	
+	<TabGroup>
+
+		<Tab title="tab1">
+			<Require src="tab1" id="tab1Tab"/>
+		</Tab>
+		<Tab title="tab2">
+			<Require src="tab2" id="vtab2Tab"/>
+		</Tab>
+		<Tab title="tab3">
+			<Require src="tab3" id="tab3Tab"/>
+		</Tab>
+		
+
+	</TabGroup>
+</Alloy>
